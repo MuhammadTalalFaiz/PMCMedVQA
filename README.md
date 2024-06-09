@@ -101,14 +101,6 @@ Accuracy	BLEU
 
 Overall, the results demonstrate the MedVQA system's potential in understanding and answering medical questions based on visual and textual data. The steady improvement in performance metrics over the training epochs suggests that with further optimization and potentially more data, the system could achieve even higher levels of accuracy and reliability.
 
-Epoch	Loss	Accuracy
-1	10.443	0.294
-2	2.140	0.609
-3	2.980	0.628
-4	3.352	0.655
-5	3.881	0.673
-50	3.979	0.706
-
 
 
 
