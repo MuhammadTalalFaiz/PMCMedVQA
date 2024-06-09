@@ -111,6 +111,6 @@ Overall, the results demonstrate the MedVQA system's potential in understanding 
 This is the work of me and my teammates Taha Ahmad
 
 # REFERENCES
-[1] Zhang, X., Wu, C., Zhao, Z., Lin, W., Zhang, Y., Wang, Y., & Xie, W. (2024). PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering\n
-[2] openai/clip-vit-base-patch32\n
+[1] Zhang, X., Wu, C., Zhao, Z., Lin, W., Zhang, Y., Wang, Y., & Xie, W. (2024). PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering/n
+[2] openai/clip-vit-base-patch32/n
 [3] bert-base-uncased
